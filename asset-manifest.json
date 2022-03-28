@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7da7452e.chunk.css",
-    "main.js": "/static/js/main.9b346a7d.chunk.js",
-    "main.js.map": "/static/js/main.9b346a7d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.21865ff1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.21865ff1.js.map",
-    "static/js/2.a5b04fce.chunk.js": "/static/js/2.a5b04fce.chunk.js",
-    "static/js/2.a5b04fce.chunk.js.map": "/static/js/2.a5b04fce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.07cf85fc582deff2d2f6641ef94c41d1.js": "/precache-manifest.07cf85fc582deff2d2f6641ef94c41d1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7da7452e.chunk.css.map": "/static/css/main.7da7452e.chunk.css.map",
-    "static/js/2.a5b04fce.chunk.js.LICENSE.txt": "/static/js/2.a5b04fce.chunk.js.LICENSE.txt"
+    "main.css": "https://dragonforgedevelopment.github.io/bladesmithing/static/css/main.7da7452e.chunk.css",
+    "main.js": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/main.ffdf36de.chunk.js",
+    "main.js.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/main.ffdf36de.chunk.js.map",
+    "runtime-main.js": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/runtime-main.93ef6940.js",
+    "runtime-main.js.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/runtime-main.93ef6940.js.map",
+    "static/js/2.a5b04fce.chunk.js": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/2.a5b04fce.chunk.js",
+    "static/js/2.a5b04fce.chunk.js.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/2.a5b04fce.chunk.js.map",
+    "index.html": "https://dragonforgedevelopment.github.io/bladesmithing/index.html",
+    "precache-manifest.4243d8ca825a9ff558b6574d2f393bfa.js": "https://dragonforgedevelopment.github.io/bladesmithing/precache-manifest.4243d8ca825a9ff558b6574d2f393bfa.js",
+    "service-worker.js": "https://dragonforgedevelopment.github.io/bladesmithing/service-worker.js",
+    "static/css/main.7da7452e.chunk.css.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/css/main.7da7452e.chunk.css.map",
+    "static/js/2.a5b04fce.chunk.js.LICENSE.txt": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/2.a5b04fce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.21865ff1.js",
+    "static/js/runtime-main.93ef6940.js",
     "static/js/2.a5b04fce.chunk.js",
     "static/css/main.7da7452e.chunk.css",
-    "static/js/main.9b346a7d.chunk.js"
+    "static/js/main.ffdf36de.chunk.js"
   ]
 }
