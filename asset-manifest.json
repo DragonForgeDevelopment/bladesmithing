@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://dragonforgedevelopment.github.io/bladesmithing/static/css/main.7da7452e.chunk.css",
-    "main.js": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/main.ffdf36de.chunk.js",
-    "main.js.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/main.ffdf36de.chunk.js.map",
-    "runtime-main.js": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/runtime-main.93ef6940.js",
-    "runtime-main.js.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/runtime-main.93ef6940.js.map",
-    "static/js/2.a5b04fce.chunk.js": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/2.a5b04fce.chunk.js",
-    "static/js/2.a5b04fce.chunk.js.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/2.a5b04fce.chunk.js.map",
-    "index.html": "https://dragonforgedevelopment.github.io/bladesmithing/index.html",
-    "precache-manifest.4243d8ca825a9ff558b6574d2f393bfa.js": "https://dragonforgedevelopment.github.io/bladesmithing/precache-manifest.4243d8ca825a9ff558b6574d2f393bfa.js",
-    "service-worker.js": "https://dragonforgedevelopment.github.io/bladesmithing/service-worker.js",
-    "static/css/main.7da7452e.chunk.css.map": "https://dragonforgedevelopment.github.io/bladesmithing/static/css/main.7da7452e.chunk.css.map",
-    "static/js/2.a5b04fce.chunk.js.LICENSE.txt": "https://dragonforgedevelopment.github.io/bladesmithing/static/js/2.a5b04fce.chunk.js.LICENSE.txt"
+    "main.css": "/bladesmithing/static/css/main.7da7452e.chunk.css",
+    "main.js": "/bladesmithing/static/js/main.f6917b35.chunk.js",
+    "main.js.map": "/bladesmithing/static/js/main.f6917b35.chunk.js.map",
+    "runtime-main.js": "/bladesmithing/static/js/runtime-main.14817ff9.js",
+    "runtime-main.js.map": "/bladesmithing/static/js/runtime-main.14817ff9.js.map",
+    "static/js/2.a5b04fce.chunk.js": "/bladesmithing/static/js/2.a5b04fce.chunk.js",
+    "static/js/2.a5b04fce.chunk.js.map": "/bladesmithing/static/js/2.a5b04fce.chunk.js.map",
+    "index.html": "/bladesmithing/index.html",
+    "precache-manifest.2b7138686576099a02ad0a6431017415.js": "/bladesmithing/precache-manifest.2b7138686576099a02ad0a6431017415.js",
+    "service-worker.js": "/bladesmithing/service-worker.js",
+    "static/css/main.7da7452e.chunk.css.map": "/bladesmithing/static/css/main.7da7452e.chunk.css.map",
+    "static/js/2.a5b04fce.chunk.js.LICENSE.txt": "/bladesmithing/static/js/2.a5b04fce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93ef6940.js",
+    "static/js/runtime-main.14817ff9.js",
     "static/js/2.a5b04fce.chunk.js",
     "static/css/main.7da7452e.chunk.css",
-    "static/js/main.ffdf36de.chunk.js"
+    "static/js/main.f6917b35.chunk.js"
   ]
 }
